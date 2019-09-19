@@ -1,7 +1,4 @@
 # C4-PlantUML
-## 修改者注
-这个版本是Copy自 [RicardoNiepel/C4-PlantUML](https://github.com/RicardoNiepel/C4-PlantUML)
-并修改新版本 PlantUML下的Bug、示例等 
 
 
 
@@ -18,6 +15,19 @@ C4-PlantUML includes macros, stereotypes, and other goodies (like VSCode Snippet
 * [Samples](#advanced-samples)
 * [Background](#background)
 * [License](#license)
+
+## 修改者注
+这个版本是Copy自 [RicardoNiepel/C4-PlantUML](https://github.com/RicardoNiepel/C4-PlantUML)
+并修改新版本 PlantUML下的Bug、示例等 
+
+
+## IntelliJ IDEA 集成
+
+
+* 在JetBrains 下载IntelliJ IDEA [Download IntelliJ IDEA](https://www.jetbrains.com/idea/download/)
+* 安装Plugins: PlantUML Integration / PlantUML Syntax Checker
+
+
 
 ## Getting Started
 
